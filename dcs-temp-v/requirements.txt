@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+tslearn
+plotly
+prophet
+langchain
+langchain-google-genai
+pydantic
+requests
+python-multipart
